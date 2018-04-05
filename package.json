@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-wordclock",
+  "version": "0.0.2",
+  "description": "Control your homemade Wordclock using HomeKit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dag0d/homebridge-wordclock.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "Wordclock"
+  ],
+  "engines": {
+  "node": ">=0.12.0",
+  "homebridge": ">=0.2.0"
+  },
+  "author": "Christopher Leber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dag0d/homebridge-wordclock/issues"
+  },
+  "homepage": "https://github.com/Dag0d/homebridge-wordclock#readme"
+}
